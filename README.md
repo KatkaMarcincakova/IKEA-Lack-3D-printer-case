@@ -1,1 +1,1 @@
-# IKEA-Lack-3D-printer-case
+# IKEA Lack 3D printer case
