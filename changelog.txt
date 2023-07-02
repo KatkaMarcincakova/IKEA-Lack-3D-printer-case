@@ -5,3 +5,7 @@
 [1.7.2023] table lock bottom v1
 	- first version of table lock bottom part, not tested yet, print in progress
 	- table lock top v1 tested and fits
+
+[2.7.2023] assembled version
+	- render product
+	- table lock bottom and top fits
